@@ -1,0 +1,15 @@
+{
+    "name": "juan/scrutin_ia",
+    "autoload": {
+        "psr-4": {
+            "Juan\\ScrutinIa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan-Salvador Alcorta",
+            "email": "156425908+jsac2001@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
